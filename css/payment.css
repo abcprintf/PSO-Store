@@ -1,0 +1,42 @@
+body
+{
+  margin:0 auto;
+  padding:0;
+  background-color:#A5DCEC;
+  font-size: 16px;
+}
+#payment{
+	margin-top: 50px;
+}
+.my_address{
+	font-size: 16px;
+}
+#user{
+	font-size:12px;
+}
+.border1{
+	border-style: solid;
+    border-width: 1px;
+    padding: 20px;
+}
+.border0{
+	border-style: solid;
+    border-width: 1px;
+	padding: 20px;
+}
+.tax{
+	font-size:12px;
+}
+.mt{
+	text-align:left;
+	margin-top:10px;
+}
+#headsite{
+	font-size:15px;
+}
+#address{
+	font-size:14px;
+}
+.right{
+	float:right;
+}

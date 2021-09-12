@@ -1,0 +1,141 @@
+/* WEB FONTS start
+@font-face {
+  font-family:'adiNeue';
+  font-style:normal;
+  font-weight:normal;
+  src:url('../fonts/BebasNeue Bold.eot');
+  src:url('../fonts/BebasNeue Bold?#iefix') format('embedded-opentype');
+}
+body{
+	font-family:'adiNeue';
+	font-weight: bolder;
+}
+*/
+.brand{
+	font-weight: bolder;
+}
+/* --------------------------------------------*/
+.top-bar{
+	background: #363738;
+}
+.top-bar-left>ul{
+	background: #363738;
+	color:#FFF;
+}
+.top-bar-left>ul{
+	background: #363738;
+	color:#FFF;
+}
+.top-bar-left>ul>li>a{
+	color:#FFF;
+}
+.top-bar-right>ul{
+	background: #363738;
+	color:#FFF;
+}
+ul>.menu .vertical{
+	color:#FFF;
+}
+.top-bar-right>ul>li>a{
+	color:#FFF;
+}
+img.orbit_img {
+    display:block;
+    margin: 0 auto;
+}
+/*-------------------------------------------------------*/
+.callout2{
+	margin-top:20px;
+	background-color:#000;
+	padding:40px;
+	padding-right:-10px;
+	padding-left:-10px;
+}
+/*---------------------------------------------------------*/
+.connect{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.learn-links{
+	font-size:14px;
+}
+.learn-links > h4{
+	font-size:16px;
+	font-weight: bold;
+}
+.support-links{
+	font-size:14px;
+}
+.support-links > h4{
+	font-size:16px;
+	font-weight: bold;
+}
+.connect-links{
+	font-size:14px;
+}
+.connect-links > h4{
+	font-size:16px;
+	font-weight: bold;
+}
+/*---------------------------------------------------------*/
+.sidebar {
+width: 200px;
+position: absolute;
+left: 0;
+top: 45px;
+bottom: 58px;
+}
+/*---------------------------------------------------------*/
+footer {
+  background: #363738;
+  color:#FFF;
+  padding: 10px;
+  padding-left: 2%;
+  font-size:12px;
+}
+/*---------------------------------------------------------*/
+ul{
+    list-style-type: none;
+}
+.side-nav{
+	background-color:#E6E6E6;
+	padding:20px;
+}
+.side-nav > li{
+	padding-top:10px;
+	padding-bottom:10px;
+	border-top : 1px black solid;
+    border-bottom : 1px black solid;
+	vertical-align: middle;
+}
+.side-nav > li > a{
+	color:#000;
+}
+/*----------------------------------------------------------------*/
+.header{
+	margin-top:40px;
+}
+.content-control{
+	/*height: 400px;*/
+}
+/*----------------------------------------------------------*/
+.callout-style-1{
+	background-color:#5cb85c;
+}
+.callout-style-2{
+	background-color:#337ab7;
+}
+.callout-style-3{
+	background-color:#f0ad4e;
+}
+/*-------------------------------------------------------------*/
+h5 > a{
+	color:#FFF;
+}
+/*---------------------------------------------------------------*/
+.most-product{
+	font-size:14px;
+}
+a.delete-file{
+	margin-top: 125px;
+}
